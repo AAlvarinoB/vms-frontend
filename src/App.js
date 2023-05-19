@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import VehicleCard from "./components/VehicleCard";
+import Header from "./components/Header";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+     <section className='App'>
+         <Header />
+         <section className='main_screen'>
+             <section className='filterer_options'>
+
+             </section>
+             <section className='available_vehicles'>
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+                 <VehicleCard />
+             </section>
+         </section>
+     </section>
   );
 }
 

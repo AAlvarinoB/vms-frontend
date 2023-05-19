@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Vehicle Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Enunciado:
 
-## Available Scripts
+Una empresa local dedicada a las ventas de todo tipo de vehículos,
+desea expandir sus proyecciones de ventas internacionalmente a todo
+el continente americano, por lo que le ha surgido la necesidad de
+desarrollar una aplicación web que soporte toda la gestión e interoperabilidad
+de los diferentes tipos de vehículos, tales como nuevos y usados dependiendo
+de las características. La aplicación debe poder dar soporte a la gestión de
+vehículos, es decir, crear, eliminar, actualizar. Además, tipificarlos de
+acuerdo con sus características tales como; del de estos, es decir, ligeros,
+pesados, especiales, agrícola, otros. Por lo tanto, el sistema debe permitir
+que los clientes puedan realizar comparaciones tanto nacionales como
+internacionales. De igual forma, el sistema debe tener control de las compras
+realizadas, teniendo en cuenta las normas de importación de otros países,
+como también su trazabilidad. Con relación a los envíos, el sistema debe
+solicitar la dirección e identificación de quien remite y recibe, transporta
+el vehículo hasta la recepción del comprador. También, el sistema debe permitir
+facturar las compras realizadas. Cabe destacar, que el sistema debe estar
+diseñado e implantado en un enfoque orientado a servicios, además de contar una
+interfaz web para su operatividad.
 
-In the project directory, you can run:
+### Integrantes:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- <a style="color: red;" href="Biografia/Leonardo Mendoza/home.html" onclick="window.open(this.href); return false;">Leonardo Mendoza</a>
+- <a style="color: red;" href="" onclick="window.open(this.href); return false;">Alberto Alvarino</a>
+- <a style="color: red;" href="" onclick="window.open(this.href); return false;">Juan Moreno</a>
+- <a style="color: red;" href="" onclick="window.open(this.href); return false;">Carlos Guzman</a>
